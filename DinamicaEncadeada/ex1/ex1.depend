@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599673216 source:c:\users\rafael\desktop\aed1\dinamicaencadeada\ex1\inteiros.c
+	<stdio.h>
+	<stdlib.h>
+	"inteiros.h"
+
+1599595398 c:\users\rafael\desktop\aed1\dinamicaencadeada\ex1\inteiros.h
+
+1599602140 source:c:\users\rafael\desktop\aed1\dinamicaencadeada\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inteiros.h"
+

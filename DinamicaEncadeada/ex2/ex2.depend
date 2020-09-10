@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599602184 source:c:\users\rafael\desktop\aed1\dinamicaencadeada\ex2\alunos.c
+	<stdio.h>
+	<stdlib.h>
+	"alunos.h"
+
+1599602172 c:\users\rafael\desktop\aed1\dinamicaencadeada\ex2\alunos.h
+
+1599602554 source:c:\users\rafael\desktop\aed1\dinamicaencadeada\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alunos.h"
+
