@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1599574721 source:c:\users\rafael\desktop\aed1\estaticasequencial2\bebida.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bebida.h"
+
+1599574713 c:\users\rafael\desktop\aed1\estaticasequencial2\bebida.h
+
+1599574813 source:c:\users\rafael\desktop\aed1\estaticasequencial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bebida.h"
+
+1599576381 source:c:\users\rafael\desktop\aed1\estaticasequencial\estaticasequencial2\bebida.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bebida.h"
+
+1599576352 c:\users\rafael\desktop\aed1\estaticasequencial\estaticasequencial2\bebida.h
+
+1599576311 source:c:\users\rafael\desktop\aed1\estaticasequencial\estaticasequencial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bebida.h"
+

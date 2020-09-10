@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1599160326 source:c:\users\giseli\desktop\rafael\ed1\estaticasequencial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"strings.h"
+
+1599160400 source:c:\users\giseli\desktop\rafael\ed1\estaticasequencial1\strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"strings.h"
+
+1599160406 c:\users\giseli\desktop\rafael\ed1\estaticasequencial1\strings.h
+
+1599566486 source:c:\users\rafael\desktop\aed1\estaticasequencial1\strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"strings.h"
+
+1599566486 c:\users\rafael\desktop\aed1\estaticasequencial1\strings.h
+
+1599434383 source:c:\users\rafael\desktop\aed1\estaticasequencial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"strings.h"
+
+1599566579 source:c:\users\rafael\desktop\estaticasequencial\estaticasequencial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"strings.h"
+
+1599566486 c:\users\rafael\desktop\estaticasequencial\estaticasequencial1\strings.h
+
+1599566486 source:c:\users\rafael\desktop\estaticasequencial\estaticasequencial1\strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"strings.h"
+
